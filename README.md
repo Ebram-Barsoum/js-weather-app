@@ -1,4 +1,4 @@
-# Waether App
+# Weather App
 
 ### Technologies used:
 
