@@ -46,7 +46,7 @@ function display_today(location, info) {
 
                         <div class="footer px-2 py-2 text-black d-flex justify-content-center gap-5 ">
                             <span class="fs-5">
-                            <i class="fa-solid fa-droplet fs-2"></i>
+                            <i class="fa-solid fa-droplet"></i>
                                 ${info.humidity}%
                             </span>
                             <span class="fs-5 ">
